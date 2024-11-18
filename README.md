@@ -1,2 +1,2 @@
 # ansible_playground
-playground to test and learn ansible
+Playground to test and learn ansible
